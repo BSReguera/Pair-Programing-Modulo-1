@@ -1,2 +1,2 @@
-# Pair-Programing-Modulo-1--MirnayBea
-Pair Programing Modulo 1 Mirna y Bea
+# Pair-Programing-Modulo-1
+Pair Programing Modulo 1
