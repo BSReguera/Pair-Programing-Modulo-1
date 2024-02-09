@@ -5,7 +5,7 @@ En este repositorio, exploraremos las prácticas de pair programming, realizadas
 
 ## Recopilación de Ejercicios Prácticos
 
-Son una colección de ejercicios prácticos para ayudar a consolidar  los conocimientos en Python. Estos ejercicios abarcan temas como variables, listas, tuplas, diccionarios, sets y secuencias de control.
+Son una colección de ejercicios prácticos para ayudar a consolidar  los conocimientos en Python. Estos ejercicios abarcan temas como variables, listas, tuplas, diccionarios, sets y sentencias de control.
 
 ### Contenido del Módulo:
 
@@ -18,5 +18,5 @@ Son una colección de ejercicios prácticos para ayudar a consolidar  los conoci
 3. **Diccionarios y Sets:**
    - Desafíos centrados en el manejo de diccionarios y sets para estructurar datos.
 
-4. **Secuencias de Control:**
+4. **Sentencias de Control:**
    - Ejemplos y ejercicios sobre if, elif, else, bucles for y while.
