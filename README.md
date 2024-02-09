@@ -1,4 +1,4 @@
-# Pair-Programing-Modulo-1
+# Pair-Programing-Modulo-1-sprint1-Mirna_Ospino_Beatriz_Sanchez
 Pair Programing Modulo 1 - Python: Pair Programming y Ejercicios Prácticos
 
 En este repositorio, exploraremos las prácticas de pair programming, realizadas para mejorar la colaboración y habilidades de codificación en equipo.
